@@ -1,6 +1,6 @@
 // 3. Написать функцию, которая заменяет в полученной строке большие буквы на маленькие, маленькие – на большие, а цифры – на знак нижнего подчеркивания.
 
-let text = 'PIZZA hamburger HoTDoG 23324';
+let text = 'PIZZA hamburger HoTDoG 236324';
 
 function some(string) {
     let result = "";
